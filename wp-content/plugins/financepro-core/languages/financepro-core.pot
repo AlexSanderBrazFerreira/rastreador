@@ -1,0 +1,1411 @@
+# Copyright (C) 2017 RadiusTheme
+# This file is distributed under the same license as the FinancePro Core package.
+msgid ""
+msgstr ""
+"Project-Id-Version: FinancePro Core 1.1\n"
+"Report-Msgid-Bugs-To: support@radiustheme.com\n"
+"POT-Creation-Date: 2017-09-26 12:15:24+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: RadiusTheme <info@radiustheme.com>\n"
+"Language-Team: RadiusTheme <info@radiustheme.com>\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: demo-importer.php:11
+msgid "Install Demo Contents"
+msgstr ""
+
+#: demo-importer.php:19
+msgid "Home 1"
+msgstr ""
+
+#: demo-importer.php:24
+msgid "Home 2"
+msgstr ""
+
+#: demo-importer.php:29
+msgid "Home 3"
+msgstr ""
+
+#: demo-importer.php:34
+msgid "Home 4"
+msgstr ""
+
+#: demo-importer.php:39
+msgid "Home 5"
+msgstr ""
+
+#: demo-importer.php:44
+msgid "Home 6"
+msgstr ""
+
+#: demo-importer.php:49
+msgid "Home 1 (Onepage)"
+msgstr ""
+
+#: demo-importer.php:54
+msgid "Home 2 (Onepage)"
+msgstr ""
+
+#: demo-importer.php:59
+msgid "Home 3 (Onepage)"
+msgstr ""
+
+#: demo-importer.php:64
+msgid "Home 4 (Onepage)"
+msgstr ""
+
+#: demo-importer.php:69
+msgid "Home 5 (Onepage)"
+msgstr ""
+
+#: demo-importer.php:74
+msgid "Home 6 (Onepage)"
+msgstr ""
+
+#: post-meta.php:18 post-meta.php:26 post-meta.php:43 post-meta.php:53
+#: post-meta.php:63 post-meta.php:74 post-meta.php:88 post-meta.php:107
+#: post-meta.php:126 post-meta.php:136 post-meta.php:146
+msgid "Default"
+msgstr ""
+
+#: post-meta.php:20
+msgid "Layout Settings"
+msgstr ""
+
+#: post-meta.php:23 vc-modules/case-studies.php:45 vc-modules/info-text.php:28
+#: vc-modules/portfolio-grid.php:39 vc-modules/service-grid.php:39
+#: vc-modules/team-grid.php:39 vc-modules/team.php:46
+#: vc-modules/text-with-video.php:28
+msgid "Layout"
+msgstr ""
+
+#: post-meta.php:27
+msgid "Full Width"
+msgstr ""
+
+#: post-meta.php:28
+msgid "Left Sidebar"
+msgstr ""
+
+#: post-meta.php:29
+msgid "Right Sidebar"
+msgstr ""
+
+#: post-meta.php:34
+msgid "Main Menu"
+msgstr ""
+
+#: post-meta.php:40
+msgid "Transparent Header"
+msgstr ""
+
+#: post-meta.php:44 post-meta.php:54 post-meta.php:127 post-meta.php:137
+#: vc-modules/info-text.php:117 vc-modules/info-text.php:314
+#: vc-modules/portfolio-grid.php:84 vc-modules/post.php:69
+#: vc-modules/post.php:171 vc-modules/service.php:69 vc-modules/service.php:171
+#: vc-modules/team-grid.php:54 vc-modules/team-grid.php:87
+#: vc-modules/team.php:84 vc-modules/team.php:230 vc-modules/team.php:246
+#: vc-modules/team.php:263 vc-modules/team.php:326
+#: vc-modules/testimonial.php:61 vc-modules/testimonial.php:139
+#: vc-modules/testimonial.php:155 vc-modules/testimonial.php:168
+#: vc-modules/testimonial.php:219
+msgid "Enabled"
+msgstr ""
+
+#: post-meta.php:45 post-meta.php:55 post-meta.php:128 post-meta.php:138
+#: vc-modules/info-text.php:116 vc-modules/info-text.php:315
+#: vc-modules/portfolio-grid.php:85 vc-modules/post.php:70
+#: vc-modules/post.php:170 vc-modules/service.php:70 vc-modules/service.php:170
+#: vc-modules/team-grid.php:55 vc-modules/team-grid.php:88
+#: vc-modules/team.php:85 vc-modules/team.php:229 vc-modules/team.php:247
+#: vc-modules/team.php:264 vc-modules/team.php:327
+#: vc-modules/testimonial.php:62 vc-modules/testimonial.php:138
+#: vc-modules/testimonial.php:156 vc-modules/testimonial.php:169
+#: vc-modules/testimonial.php:220
+msgid "Disabled"
+msgstr ""
+
+#: post-meta.php:50
+msgid "Top Bar"
+msgstr ""
+
+#: post-meta.php:60
+msgid "Top Bar Layout"
+msgstr ""
+
+#: post-meta.php:64 post-meta.php:75 vc-modules/info-text.php:31
+#: vc-modules/team.php:49
+msgid "Layout 1"
+msgstr ""
+
+#: post-meta.php:65 post-meta.php:76 vc-modules/info-text.php:32
+#: vc-modules/team.php:50
+msgid "Layout 2"
+msgstr ""
+
+#: post-meta.php:66 post-meta.php:77 vc-modules/info-text.php:33
+#: vc-modules/team.php:51
+msgid "Layout 3"
+msgstr ""
+
+#: post-meta.php:71
+msgid "Header Layout"
+msgstr ""
+
+#: post-meta.php:78 vc-modules/info-text.php:34 vc-modules/team.php:52
+msgid "Layout 4"
+msgstr ""
+
+#: post-meta.php:79 vc-modules/info-text.php:35
+msgid "Layout 5"
+msgstr ""
+
+#: post-meta.php:80 vc-modules/info-text.php:36
+msgid "Layout 6"
+msgstr ""
+
+#: post-meta.php:85
+msgid "Content Padding Top"
+msgstr ""
+
+#: post-meta.php:104
+msgid "Content Padding Bottom"
+msgstr ""
+
+#: post-meta.php:123
+msgid "Banner"
+msgstr ""
+
+#: post-meta.php:133
+msgid "Breadcrumb"
+msgstr ""
+
+#: post-meta.php:143
+msgid "Banner Background Type"
+msgstr ""
+
+#: post-meta.php:147
+msgid "Background Image"
+msgstr ""
+
+#: post-meta.php:148 vc-modules/pricing-box.php:28
+msgid "Background Color"
+msgstr ""
+
+#: post-meta.php:153
+msgid "Banner Background Image"
+msgstr ""
+
+#: post-meta.php:155 post-meta.php:160 post-meta.php:281
+msgid "If not selected, default will be used"
+msgstr ""
+
+#: post-meta.php:158
+msgid "Banner Background Color"
+msgstr ""
+
+#: post-meta.php:170
+msgid "Facebook"
+msgstr ""
+
+#: post-meta.php:176
+msgid "Twitter"
+msgstr ""
+
+#: post-meta.php:182
+msgid "Linkedin"
+msgstr ""
+
+#: post-meta.php:188
+msgid "Google Plus"
+msgstr ""
+
+#: post-meta.php:194
+msgid "Skype"
+msgstr ""
+
+#: post-meta.php:200
+msgid "Youtube"
+msgstr ""
+
+#: post-meta.php:206
+msgid "Pinterest"
+msgstr ""
+
+#: post-meta.php:212
+msgid "Instagram"
+msgstr ""
+
+#: post-meta.php:218
+msgid "Github"
+msgstr ""
+
+#: post-meta.php:224
+msgid "Stackoverflow"
+msgstr ""
+
+#: post-meta.php:235
+msgid "Team Member Settings"
+msgstr ""
+
+#: post-meta.php:238 post-meta.php:295 vc-modules/about.php:79
+msgid "Designation"
+msgstr ""
+
+#: post-meta.php:242
+msgid "Phone Number"
+msgstr ""
+
+#: post-meta.php:246 vc-modules/contact-info.php:73
+msgid "Email"
+msgstr ""
+
+#: post-meta.php:250
+msgid "Socials"
+msgstr ""
+
+#: post-meta.php:252
+msgid "Put your social links here"
+msgstr ""
+
+#: post-meta.php:262
+msgid "Team Skills"
+msgstr ""
+
+#: post-meta.php:266
+msgid "Add New Skill"
+msgstr ""
+
+#: post-meta.php:269
+msgid "Skill Name"
+msgstr ""
+
+#: post-meta.php:271
+msgid "eg. Investment"
+msgstr ""
+
+#: post-meta.php:274
+msgid "Skill Percentage (%)"
+msgstr ""
+
+#: post-meta.php:276
+msgid "eg. 75"
+msgstr ""
+
+#: post-meta.php:279
+msgid "Skill Bar Color"
+msgstr ""
+
+#: post-meta.php:292
+msgid "Testimonial Info"
+msgstr ""
+
+#: post-types.php:13 vc-modules/service-single.php:50
+msgid "Service"
+msgstr ""
+
+#: post-types.php:14
+msgid "Services"
+msgstr ""
+
+#: post-types.php:19
+msgid "Case Study"
+msgstr ""
+
+#: post-types.php:20
+msgid "Case Studies"
+msgstr ""
+
+#: post-types.php:25
+msgid "Team Member"
+msgstr ""
+
+#: post-types.php:26
+msgid "Team Members"
+msgstr ""
+
+#: post-types.php:29
+msgid "Team"
+msgstr ""
+
+#: post-types.php:34 post-types.php:35
+msgid "Portfolio"
+msgstr ""
+
+#: post-types.php:40
+msgid "Testimonial"
+msgstr ""
+
+#: post-types.php:41
+msgid "Testimonials"
+msgstr ""
+
+#: post-types.php:49
+msgid "Service Category"
+msgstr ""
+
+#: post-types.php:50
+msgid "Service Categories"
+msgstr ""
+
+#: post-types.php:54
+msgid "Case Study Category"
+msgstr ""
+
+#: post-types.php:55
+msgid "Case Categories"
+msgstr ""
+
+#: post-types.php:59
+msgid "Portfolio Category"
+msgstr ""
+
+#: post-types.php:60
+msgid "Portfolio Categories"
+msgstr ""
+
+#: post-types.php:64
+msgid "Team Category"
+msgstr ""
+
+#: post-types.php:65
+msgid "Team Categories"
+msgstr ""
+
+#: post-types.php:69
+msgid "Testimonial Category"
+msgstr ""
+
+#: post-types.php:70
+msgid "Testimonial Categories"
+msgstr ""
+
+#: vc-flaticon/vc-flaticon.php:53 vc-modules/inc/abstruct.php:54
+msgid "FinancePro"
+msgstr ""
+
+#: vc-flaticon/vc-flaticon.php:54
+msgid "Seo and Marketing"
+msgstr ""
+
+#: vc-flaticon/vc-flaticon.php:55
+msgid "Miscellaneous"
+msgstr ""
+
+#: vc-modules/about.php:13
+msgid "FinancePro: About"
+msgstr ""
+
+#: vc-modules/about.php:16 vc-modules/text-with-image.php:16
+msgid "About Finance Wordpress Theme"
+msgstr ""
+
+#: vc-modules/about.php:17 vc-modules/info-text.php:17
+msgid "Read More"
+msgstr ""
+
+#: vc-modules/about.php:28 vc-modules/text-with-image.php:28
+msgid "Image Alignment"
+msgstr ""
+
+#: vc-modules/about.php:39 vc-modules/text-with-image.php:39
+msgid "Image"
+msgstr ""
+
+#: vc-modules/about.php:46 vc-modules/contact-info.php:27
+#: vc-modules/counter.php:82 vc-modules/fin-cta.php:29
+#: vc-modules/info-text.php:219 vc-modules/pricing-box.php:36
+#: vc-modules/text-with-button.php:40 vc-modules/text-with-image.php:46
+#: vc-modules/title.php:27
+msgid "Title"
+msgstr ""
+
+#: vc-modules/about.php:54 vc-modules/contact-info.php:42
+#: vc-modules/counter.php:38 vc-modules/info-text.php:227
+#: vc-modules/testimonial.php:96 vc-modules/text-with-button.php:48
+#: vc-modules/text-with-image.php:54 vc-modules/title.php:50
+msgid "Title color"
+msgstr ""
+
+#: vc-modules/about.php:62 vc-modules/info-text.php:267
+#: vc-modules/text-with-button.php:64 vc-modules/text-with-image.php:66
+#: vc-modules/text-with-video.php:77
+msgid "Content"
+msgstr ""
+
+#: vc-modules/about.php:64
+msgid ""
+"Intense is an International Financial Planning company with offices in "
+"multiple jurisdictions over the world. Working with Intense gives me the "
+"ability to advise international expatriates. I am John Doe, a senior "
+"advisor for an independently owned financial planning company called "
+"Financeco."
+msgstr ""
+
+#: vc-modules/about.php:71
+msgid "Name"
+msgstr ""
+
+#: vc-modules/about.php:85 vc-modules/contact-info.php:87
+#: vc-modules/counter.php:97 vc-modules/fin-cta.php:59
+#: vc-modules/info-text.php:347 vc-modules/pricing-box.php:94
+#: vc-modules/service-single.php:56 vc-modules/tab.php:103
+#: vc-modules/text-with-button.php:105 vc-modules/text-with-image.php:73
+#: vc-modules/text-with-video.php:84 vc-modules/title.php:95
+msgid "Css"
+msgstr ""
+
+#: vc-modules/about.php:87 vc-modules/contact-info.php:89
+#: vc-modules/counter.php:99 vc-modules/fin-cta.php:61
+#: vc-modules/info-text.php:349 vc-modules/pricing-box.php:96
+#: vc-modules/service-single.php:58 vc-modules/tab.php:105
+#: vc-modules/text-with-button.php:107 vc-modules/text-with-image.php:75
+#: vc-modules/text-with-video.php:86 vc-modules/title.php:97
+msgid "Design options"
+msgstr ""
+
+#: vc-modules/case-studies.php:13
+msgid "FinancePro: Case Studies"
+msgstr ""
+
+#: vc-modules/case-studies.php:17 vc-modules/portfolio-grid.php:17
+#: vc-modules/post.php:18 vc-modules/service-grid.php:17
+#: vc-modules/service-single.php:17 vc-modules/service.php:18
+#: vc-modules/team-grid.php:17 vc-modules/team.php:18
+#: vc-modules/testimonial.php:18
+msgid "1 col"
+msgstr ""
+
+#: vc-modules/case-studies.php:18 vc-modules/portfolio-grid.php:18
+#: vc-modules/post.php:19 vc-modules/service-grid.php:18
+#: vc-modules/service-single.php:18 vc-modules/service.php:19
+#: vc-modules/team-grid.php:18 vc-modules/team.php:19
+#: vc-modules/testimonial.php:19
+msgid "2 col"
+msgstr ""
+
+#: vc-modules/case-studies.php:19 vc-modules/portfolio-grid.php:19
+#: vc-modules/post.php:20 vc-modules/service-grid.php:19
+#: vc-modules/service-single.php:19 vc-modules/service.php:20
+#: vc-modules/team-grid.php:19 vc-modules/team.php:20
+#: vc-modules/testimonial.php:20
+msgid "3 col"
+msgstr ""
+
+#: vc-modules/case-studies.php:20 vc-modules/portfolio-grid.php:20
+#: vc-modules/post.php:21 vc-modules/service-grid.php:20
+#: vc-modules/service-single.php:20 vc-modules/service.php:21
+#: vc-modules/team-grid.php:20 vc-modules/team.php:21
+#: vc-modules/testimonial.php:21
+msgid "4 col"
+msgstr ""
+
+#: vc-modules/case-studies.php:21 vc-modules/portfolio-grid.php:21
+#: vc-modules/post.php:22 vc-modules/service-grid.php:21
+#: vc-modules/service-single.php:21 vc-modules/service.php:22
+#: vc-modules/team-grid.php:21 vc-modules/team.php:22
+#: vc-modules/testimonial.php:22
+msgid "6 col"
+msgstr ""
+
+#: vc-modules/case-studies.php:29 vc-modules/portfolio-grid.php:29
+#: vc-modules/service-grid.php:29 vc-modules/team-grid.php:29
+#: vc-modules/testimonial.php:37
+msgid "All Categories"
+msgstr ""
+
+#: vc-modules/case-studies.php:48
+msgid "Grid"
+msgstr ""
+
+#: vc-modules/case-studies.php:49
+msgid "Box"
+msgstr ""
+
+#: vc-modules/case-studies.php:56 vc-modules/portfolio-grid.php:51
+#: vc-modules/service-grid.php:51 vc-modules/team-grid.php:75
+msgid "Items Per Page"
+msgstr ""
+
+#: vc-modules/case-studies.php:63 vc-modules/portfolio-grid.php:54
+#: vc-modules/post.php:116 vc-modules/service-grid.php:54
+#: vc-modules/service.php:96 vc-modules/team-grid.php:78
+#: vc-modules/team.php:154 vc-modules/testimonial.php:121
+msgid "Write -1 to show all"
+msgstr ""
+
+#: vc-modules/case-studies.php:69 vc-modules/portfolio-grid.php:60
+#: vc-modules/post.php:58 vc-modules/service-grid.php:60
+#: vc-modules/service.php:58 vc-modules/team.php:130
+#: vc-modules/testimonial.php:127
+msgid "Categories"
+msgstr ""
+
+#: vc-modules/case-studies.php:81 vc-modules/portfolio-grid.php:68
+#: vc-modules/post.php:100 vc-modules/team-grid.php:62 vc-modules/team.php:138
+msgid "Word count"
+msgstr ""
+
+#: vc-modules/case-studies.php:88 vc-modules/portfolio-grid.php:75
+#: vc-modules/post.php:107 vc-modules/team-grid.php:69 vc-modules/team.php:145
+msgid "Maximum number of words"
+msgstr ""
+
+#: vc-modules/case-studies.php:94
+msgid "1st item"
+msgstr ""
+
+#: vc-modules/case-studies.php:106
+msgid "2nd item"
+msgstr ""
+
+#: vc-modules/case-studies.php:118
+msgid "3rd item"
+msgstr ""
+
+#: vc-modules/case-studies.php:130 vc-modules/portfolio-grid.php:92
+#: vc-modules/post.php:122 vc-modules/service-grid.php:68
+#: vc-modules/service.php:102 vc-modules/team-grid.php:99
+#: vc-modules/team.php:160
+msgid "Number of columns ( Desktops > 1199px )"
+msgstr ""
+
+#: vc-modules/case-studies.php:143 vc-modules/portfolio-grid.php:105
+#: vc-modules/post.php:131 vc-modules/service-grid.php:81
+#: vc-modules/service.php:115 vc-modules/team-grid.php:108
+#: vc-modules/team.php:173
+msgid "Number of columns ( Desktops > 991px )"
+msgstr ""
+
+#: vc-modules/case-studies.php:156 vc-modules/portfolio-grid.php:118
+#: vc-modules/post.php:140 vc-modules/service-grid.php:94
+#: vc-modules/service.php:128 vc-modules/team-grid.php:117
+#: vc-modules/team.php:186
+msgid "Number of columns ( Tablets > 767px )"
+msgstr ""
+
+#: vc-modules/case-studies.php:169 vc-modules/portfolio-grid.php:131
+#: vc-modules/post.php:149 vc-modules/service-grid.php:107
+#: vc-modules/service.php:141 vc-modules/team-grid.php:126
+#: vc-modules/team.php:199
+msgid "Number of columns ( Phones < 768px )"
+msgstr ""
+
+#: vc-modules/contact-info.php:13
+msgid "FinancePro: Contact Info"
+msgstr ""
+
+#: vc-modules/contact-info.php:16 vc-modules/tab.php:16 vc-modules/title.php:16
+msgid "Welcome To Finance"
+msgstr ""
+
+#: vc-modules/contact-info.php:35
+msgid "Description"
+msgstr ""
+
+#: vc-modules/contact-info.php:49
+msgid "Description color"
+msgstr ""
+
+#: vc-modules/contact-info.php:57
+msgid "Address"
+msgstr ""
+
+#: vc-modules/contact-info.php:65
+msgid "Phone"
+msgstr ""
+
+#: vc-modules/contact-info.php:81
+msgid "Fax"
+msgstr ""
+
+#: vc-modules/counter.php:13
+msgid "FinancePro: Counter"
+msgstr ""
+
+#: vc-modules/counter.php:16
+msgid "HAPPY CLIENTS"
+msgstr ""
+
+#: vc-modules/counter.php:31
+msgid "Counter color"
+msgstr ""
+
+#: vc-modules/counter.php:46
+msgid "Counter Font Size"
+msgstr ""
+
+#: vc-modules/counter.php:48
+msgid "Icon size in px eg. 20"
+msgstr ""
+
+#: vc-modules/counter.php:55
+msgid "Counter Number"
+msgstr ""
+
+#: vc-modules/counter.php:58
+msgid "Number to count eg. 5780"
+msgstr ""
+
+#: vc-modules/counter.php:64
+msgid "Counter Speed"
+msgstr ""
+
+#: vc-modules/counter.php:67
+msgid "The total duration of the count animation in milisecond eg. 5000"
+msgstr ""
+
+#: vc-modules/counter.php:73
+msgid "Counter Steps"
+msgstr ""
+
+#: vc-modules/counter.php:76
+msgid "Counter steps eg. 10"
+msgstr ""
+
+#: vc-modules/counter.php:90
+msgid "Counter Text Size"
+msgstr ""
+
+#: vc-modules/counter.php:92
+msgid "Counter Text size in px eg. 20"
+msgstr ""
+
+#: vc-modules/fin-cta.php:13
+msgid "FinancePro: Call to Action"
+msgstr ""
+
+#: vc-modules/fin-cta.php:16
+msgid "Waste No More Time"
+msgstr ""
+
+#: vc-modules/fin-cta.php:17
+msgid "Buy the latest finance wordpress theme and be grow with us"
+msgstr ""
+
+#: vc-modules/fin-cta.php:18
+msgid "Buy Theme"
+msgstr ""
+
+#: vc-modules/fin-cta.php:37 vc-modules/title.php:43
+msgid "Subtitle"
+msgstr ""
+
+#: vc-modules/fin-cta.php:45 vc-modules/info-text.php:326
+#: vc-modules/pricing-box.php:71 vc-modules/text-with-button.php:91
+msgid "Button Text"
+msgstr ""
+
+#: vc-modules/fin-cta.php:53 vc-modules/info-text.php:338
+#: vc-modules/pricing-box.php:79 vc-modules/text-with-button.php:99
+msgid "Button URL"
+msgstr ""
+
+#: vc-modules/info-text.php:13
+msgid "FinancePro: Info Text"
+msgstr ""
+
+#: vc-modules/info-text.php:16
+msgid "I am title"
+msgstr ""
+
+#: vc-modules/info-text.php:37
+msgid "Layout 7"
+msgstr ""
+
+#: vc-modules/info-text.php:38
+msgid "Layout 8"
+msgstr ""
+
+#: vc-modules/info-text.php:39
+msgid "Layout 9 - Dark Background"
+msgstr ""
+
+#: vc-modules/info-text.php:46 vc-modules/tab.php:41
+msgid "Icon Type"
+msgstr ""
+
+#: vc-modules/info-text.php:49 vc-modules/tab.php:44
+msgid "FlatIcon"
+msgstr ""
+
+#: vc-modules/info-text.php:50 vc-modules/tab.php:45
+msgid "FontAwesome"
+msgstr ""
+
+#: vc-modules/info-text.php:51 vc-modules/tab.php:46
+msgid "Custom Image"
+msgstr ""
+
+#: vc-modules/info-text.php:56 vc-modules/tab.php:51
+msgid "Flaticon"
+msgstr ""
+
+#: vc-modules/info-text.php:71 vc-modules/tab.php:66
+msgid "FontAwesome Icon"
+msgstr ""
+
+#: vc-modules/info-text.php:87 vc-modules/tab.php:82
+msgid "Upload icon image"
+msgstr ""
+
+#: vc-modules/info-text.php:98
+msgid "Icon style"
+msgstr ""
+
+#: vc-modules/info-text.php:101
+msgid "Rounded"
+msgstr ""
+
+#: vc-modules/info-text.php:102
+msgid "Squire"
+msgstr ""
+
+#: vc-modules/info-text.php:113
+msgid "Icon border"
+msgstr ""
+
+#: vc-modules/info-text.php:128
+msgid "Icon color"
+msgstr ""
+
+#: vc-modules/info-text.php:144 vc-modules/info-text.php:160
+msgid "Icon Background color"
+msgstr ""
+
+#: vc-modules/info-text.php:172
+msgid "Mouseover color"
+msgstr ""
+
+#: vc-modules/info-text.php:184
+msgid "Background color"
+msgstr ""
+
+#: vc-modules/info-text.php:195
+msgid "Icon size"
+msgstr ""
+
+#: vc-modules/info-text.php:197
+msgid "Icon size in px eg. 30"
+msgstr ""
+
+#: vc-modules/info-text.php:207
+msgid "Icon padding"
+msgstr ""
+
+#: vc-modules/info-text.php:209
+msgid "Icon padding in px eg. 15. Doesn't work on custom image"
+msgstr ""
+
+#: vc-modules/info-text.php:239
+msgid "Title Hover Color"
+msgstr ""
+
+#: vc-modules/info-text.php:251
+msgid "Title URL"
+msgstr ""
+
+#: vc-modules/info-text.php:253
+msgid "keep this field empty if you don't want the title linkable"
+msgstr ""
+
+#: vc-modules/info-text.php:259 vc-modules/text-with-button.php:56
+#: vc-modules/title.php:35
+msgid "Title Font Size"
+msgstr ""
+
+#: vc-modules/info-text.php:261
+msgid ""
+"Title font size in px. eg 20. If not defined, default h3 font size will be "
+"used"
+msgstr ""
+
+#: vc-modules/info-text.php:269
+msgid ""
+"I am Info Text block. Click edit button to change this text. Lorem ipsum "
+"dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: vc-modules/info-text.php:275
+msgid "Content Font Size"
+msgstr ""
+
+#: vc-modules/info-text.php:277
+msgid ""
+"Content font size in px eg. 15. If not defined, default body font size will "
+"be used"
+msgstr ""
+
+#: vc-modules/info-text.php:283
+msgid "Content Width"
+msgstr ""
+
+#: vc-modules/info-text.php:285
+msgid ""
+"Content maximum width in px eg 360. Keep this field empty if you want full "
+"width"
+msgstr ""
+
+#: vc-modules/info-text.php:291
+msgid "Spacing Before Title"
+msgstr ""
+
+#: vc-modules/info-text.php:293
+msgid "Spacing between icon and title in px eg. 25"
+msgstr ""
+
+#: vc-modules/info-text.php:303
+msgid "Spacing After Title"
+msgstr ""
+
+#: vc-modules/info-text.php:305
+msgid "Spacing between title and content in px eg. 12"
+msgstr ""
+
+#: vc-modules/info-text.php:311
+msgid "Display Button"
+msgstr ""
+
+#: vc-modules/portfolio-grid.php:13
+msgid "FinancePro: Portfolio Grid"
+msgstr ""
+
+#: vc-modules/portfolio-grid.php:42 vc-modules/post.php:50
+#: vc-modules/service-grid.php:42 vc-modules/service.php:49
+#: vc-modules/team-grid.php:42 vc-modules/testimonial.php:50
+msgid "Style 1"
+msgstr ""
+
+#: vc-modules/portfolio-grid.php:43 vc-modules/post.php:51
+#: vc-modules/service-grid.php:43 vc-modules/service.php:50
+#: vc-modules/team-grid.php:43 vc-modules/testimonial.php:51
+msgid "Style 2"
+msgstr ""
+
+#: vc-modules/portfolio-grid.php:44 vc-modules/service-grid.php:44
+#: vc-modules/service.php:51 vc-modules/team-grid.php:44
+msgid "Style 3"
+msgstr ""
+
+#: vc-modules/portfolio-grid.php:81 vc-modules/team-grid.php:84
+msgid "Pagination Display"
+msgstr ""
+
+#: vc-modules/post.php:13
+msgid "FinancePro: Post Slider"
+msgstr ""
+
+#: vc-modules/post.php:16
+msgid "Our Latest News"
+msgstr ""
+
+#: vc-modules/post.php:47
+msgid "Style"
+msgstr ""
+
+#: vc-modules/post.php:66 vc-modules/service.php:66 vc-modules/team.php:81
+#: vc-modules/testimonial.php:58
+msgid "Section Title Display"
+msgstr ""
+
+#: vc-modules/post.php:77 vc-modules/service.php:81 vc-modules/team.php:96
+#: vc-modules/testimonial.php:74
+msgid "Section Title"
+msgstr ""
+
+#: vc-modules/post.php:88 vc-modules/team.php:107 vc-modules/testimonial.php:85
+msgid "Section Title Color"
+msgstr ""
+
+#: vc-modules/post.php:113 vc-modules/service.php:93 vc-modules/team.php:151
+#: vc-modules/testimonial.php:118
+msgid "Total number of items"
+msgstr ""
+
+#: vc-modules/post.php:158 vc-modules/service.php:154 vc-modules/team.php:212
+msgid "Number of columns ( Small Phones < 480px )"
+msgstr ""
+
+#: vc-modules/post.php:167 vc-modules/service.php:167 vc-modules/team.php:226
+#: vc-modules/testimonial.php:135
+msgid "Navigation Dots"
+msgstr ""
+
+#: vc-modules/post.php:173 vc-modules/service.php:173 vc-modules/team.php:232
+#: vc-modules/testimonial.php:141
+msgid "Enable or disable navigation dots. Default: Disable"
+msgstr ""
+
+#: vc-modules/post.php:174 vc-modules/post.php:191 vc-modules/post.php:208
+#: vc-modules/post.php:228 vc-modules/post.php:242 vc-modules/post.php:255
+#: vc-modules/service.php:174 vc-modules/service.php:191
+#: vc-modules/service.php:208 vc-modules/service.php:228
+#: vc-modules/service.php:242 vc-modules/service.php:255
+#: vc-modules/team.php:233 vc-modules/team.php:250 vc-modules/team.php:271
+#: vc-modules/team.php:295 vc-modules/team.php:313 vc-modules/team.php:330
+#: vc-modules/testimonial.php:142 vc-modules/testimonial.php:159
+#: vc-modules/testimonial.php:176 vc-modules/testimonial.php:196
+#: vc-modules/testimonial.php:210 vc-modules/testimonial.php:223
+msgid "Slider Options"
+msgstr ""
+
+#: vc-modules/post.php:184 vc-modules/service.php:184 vc-modules/team.php:243
+#: vc-modules/testimonial.php:152
+msgid "Autoplay"
+msgstr ""
+
+#: vc-modules/post.php:187 vc-modules/post.php:200 vc-modules/post.php:251
+#: vc-modules/service.php:187 vc-modules/service.php:200
+#: vc-modules/service.php:251
+msgid "Enable"
+msgstr ""
+
+#: vc-modules/post.php:188 vc-modules/post.php:201 vc-modules/post.php:252
+#: vc-modules/service.php:188 vc-modules/service.php:201
+#: vc-modules/service.php:252
+msgid "Disable"
+msgstr ""
+
+#: vc-modules/post.php:190 vc-modules/service.php:190 vc-modules/team.php:249
+msgid "Enable or disable autoplay. Default: Enable"
+msgstr ""
+
+#: vc-modules/post.php:197 vc-modules/service.php:197 vc-modules/team.php:260
+#: vc-modules/testimonial.php:165
+msgid "Stop on Hover"
+msgstr ""
+
+#: vc-modules/post.php:207 vc-modules/service.php:207 vc-modules/team.php:270
+msgid "Stop autoplay on mouse hover. Default: Enable"
+msgstr ""
+
+#: vc-modules/post.php:214 vc-modules/service.php:214 vc-modules/team.php:281
+#: vc-modules/testimonial.php:182
+msgid "Autoplay Interval"
+msgstr ""
+
+#: vc-modules/post.php:217 vc-modules/service.php:217 vc-modules/team.php:284
+#: vc-modules/testimonial.php:185
+msgid "5 Seconds"
+msgstr ""
+
+#: vc-modules/post.php:218 vc-modules/service.php:218 vc-modules/team.php:285
+#: vc-modules/testimonial.php:186
+msgid "4 Seconds"
+msgstr ""
+
+#: vc-modules/post.php:219 vc-modules/service.php:219 vc-modules/team.php:286
+#: vc-modules/testimonial.php:187
+msgid "3 Seconds"
+msgstr ""
+
+#: vc-modules/post.php:220 vc-modules/service.php:220 vc-modules/team.php:287
+#: vc-modules/testimonial.php:188
+msgid "2 Seconds"
+msgstr ""
+
+#: vc-modules/post.php:221 vc-modules/service.php:221
+#: vc-modules/testimonial.php:189
+msgid "1 Seconds"
+msgstr ""
+
+#: vc-modules/post.php:227 vc-modules/service.php:227 vc-modules/team.php:294
+#: vc-modules/testimonial.php:195
+msgid ""
+"Set any value for example 5 seconds to play it in every 5 seconds. Default: "
+"5 Seconds"
+msgstr ""
+
+#: vc-modules/post.php:234 vc-modules/service.php:234 vc-modules/team.php:305
+#: vc-modules/testimonial.php:202
+msgid "Autoplay Slide Speed"
+msgstr ""
+
+#: vc-modules/post.php:241 vc-modules/service.php:241 vc-modules/team.php:312
+#: vc-modules/testimonial.php:209
+msgid "Slide speed in milliseconds. Default: 200"
+msgstr ""
+
+#: vc-modules/post.php:248 vc-modules/service.php:248 vc-modules/team.php:323
+#: vc-modules/testimonial.php:216
+msgid "Loop"
+msgstr ""
+
+#: vc-modules/post.php:254 vc-modules/service.php:254 vc-modules/team.php:329
+msgid "Loop to first item. Default: Enable"
+msgstr ""
+
+#: vc-modules/pricing-box.php:13
+msgid "FinancePro: Pricing Box"
+msgstr ""
+
+#: vc-modules/pricing-box.php:16
+msgid "STANDARD"
+msgstr ""
+
+#: vc-modules/pricing-box.php:17
+msgid "Details"
+msgstr ""
+
+#: vc-modules/pricing-box.php:44
+msgid "Price"
+msgstr ""
+
+#: vc-modules/pricing-box.php:47
+msgid "Including currency sign eg. $59"
+msgstr ""
+
+#: vc-modules/pricing-box.php:53
+msgid "Unit Name"
+msgstr ""
+
+#: vc-modules/pricing-box.php:56
+msgid "eg. month or year. Keep empty if you don't want to show unit"
+msgstr ""
+
+#: vc-modules/pricing-box.php:62
+msgid "Features"
+msgstr ""
+
+#: vc-modules/pricing-box.php:65
+msgid ""
+"One line per feature. Put BLANK keyword if you want blank line. "
+"eg.<br/>Investment Plan</br>Education Loan</br>Tax Planning</br>BLANK"
+msgstr ""
+
+#: vc-modules/pricing-box.php:87
+msgid "Maximum width"
+msgstr ""
+
+#: vc-modules/pricing-box.php:90
+msgid "Maximum width in px. Keep empty if you want full width. eg. 300"
+msgstr ""
+
+#: vc-modules/service-grid.php:13
+msgid "FinancePro: Service Grid"
+msgstr ""
+
+#: vc-modules/service-single.php:13
+msgid "FinancePro: Single Service"
+msgstr ""
+
+#: vc-modules/service.php:13
+msgid "FinancePro: Service Sliders"
+msgstr ""
+
+#: vc-modules/service.php:16
+msgid "Featured Service"
+msgstr ""
+
+#: vc-modules/service.php:46 vc-modules/testimonial.php:47
+msgid "Slider Style"
+msgstr ""
+
+#: vc-modules/tab.php:13
+msgid "FinancePro: Tab"
+msgstr ""
+
+#: vc-modules/tab.php:93
+msgid "Content Text"
+msgstr ""
+
+#: vc-modules/team-grid.php:13
+msgid "FinancePro: Team Grid"
+msgstr ""
+
+#: vc-modules/team-grid.php:51
+msgid "Designation Display"
+msgstr ""
+
+#: vc-modules/team.php:13
+msgid "FinancePro: Team Slider"
+msgstr ""
+
+#: vc-modules/team.php:16
+msgid "Expert Advisor"
+msgstr ""
+
+#: vc-modules/team.php:58
+msgid "Box Background Color"
+msgstr ""
+
+#: vc-modules/team.php:69
+msgid "Box Background Hover Color"
+msgstr ""
+
+#: vc-modules/team.php:119
+msgid "Designation display"
+msgstr ""
+
+#: vc-modules/team.php:288
+msgid "1 Second"
+msgstr ""
+
+#: vc-modules/testimonial.php:13
+msgid "FinancePro: Testimonial"
+msgstr ""
+
+#: vc-modules/testimonial.php:16
+msgid "What Our Client’s Say"
+msgstr ""
+
+#: vc-modules/testimonial.php:68
+msgid "Show Title of this section. Default: Show"
+msgstr ""
+
+#: vc-modules/testimonial.php:103
+msgid "Designation color"
+msgstr ""
+
+#: vc-modules/testimonial.php:110
+msgid "Text color"
+msgstr ""
+
+#: vc-modules/testimonial.php:158
+msgid "Enabled or disabled autoplay. Default: Enabled"
+msgstr ""
+
+#: vc-modules/testimonial.php:175
+msgid "Stop autoplay on mouse hover. Default: Enabled"
+msgstr ""
+
+#: vc-modules/testimonial.php:222
+msgid "Loop to first item. Default: Enabled"
+msgstr ""
+
+#: vc-modules/text-with-button.php:13
+msgid "FinancePro: Text with Button"
+msgstr ""
+
+#: vc-modules/text-with-button.php:16
+msgid "You can design your own site"
+msgstr ""
+
+#: vc-modules/text-with-button.php:17 vc-modules/views/service-grid2.php:73
+#: vc-modules/views/service-grid3.php:61 vc-modules/views/service-single.php:55
+#: vc-modules/views/service-slider-1.php:68
+msgid "READ MORE"
+msgstr ""
+
+#: vc-modules/text-with-button.php:28 vc-modules/title.php:65
+msgid "Alignment"
+msgstr ""
+
+#: vc-modules/text-with-button.php:31 vc-modules/title.php:68
+msgid "Center"
+msgstr ""
+
+#: vc-modules/text-with-button.php:32 vc-modules/title.php:69
+msgid "Left"
+msgstr ""
+
+#: vc-modules/text-with-button.php:33 vc-modules/title.php:70
+msgid "Right"
+msgstr ""
+
+#: vc-modules/text-with-button.php:66
+msgid ""
+"Mimply dummy text of the printing and typesetting industry. Lorem Ipsum has "
+"been the industry's standard dummy text ever since the 1500s, when an "
+"unknown printer took a galley of type and scrambled it to make a type "
+"specimen book. It has survived not only five cent into electronining "
+"essentially unchanged."
+msgstr ""
+
+#: vc-modules/text-with-button.php:72
+msgid "Content color"
+msgstr ""
+
+#: vc-modules/text-with-button.php:80
+msgid "Button Style"
+msgstr ""
+
+#: vc-modules/text-with-button.php:83
+msgid "Light Background"
+msgstr ""
+
+#: vc-modules/text-with-button.php:84
+msgid "Dark Background"
+msgstr ""
+
+#: vc-modules/text-with-image.php:13
+msgid "FinancePro: Text with Image"
+msgstr ""
+
+#: vc-modules/text-with-image.php:17 vc-modules/text-with-image.php:68
+msgid ""
+"Bimply dummy text of the printing and typesetting industry. Lorem Ipsum has "
+"been the industry standard dummy text ever since the 1500s, when an unknown "
+"printer took a galley.the industry standard dummy text eveunknown. Bimply "
+"dummy text of the printing and typesetting industry. Lorem Ipsum has been "
+"the industry standard dummy text ever since the 1500s, when an unknown "
+"printer took a galley.the industry standard dummy text eveunknown."
+msgstr ""
+
+#: vc-modules/text-with-video.php:13
+msgid "FinancePro: Text with Video"
+msgstr ""
+
+#: vc-modules/text-with-video.php:16
+msgid "Since 1996"
+msgstr ""
+
+#: vc-modules/text-with-video.php:17
+msgid "Our Company History"
+msgstr ""
+
+#: vc-modules/text-with-video.php:39
+msgid "Small Title"
+msgstr ""
+
+#: vc-modules/text-with-video.php:46
+msgid "Small Title Color"
+msgstr ""
+
+#: vc-modules/text-with-video.php:54
+msgid "Main Title"
+msgstr ""
+
+#: vc-modules/text-with-video.php:61
+msgid "Main Title Color"
+msgstr ""
+
+#: vc-modules/text-with-video.php:67
+msgid "Video link"
+msgstr ""
+
+#: vc-modules/text-with-video.php:71
+msgid ""
+"Enter link to video (Note: read more about available formats at WordPress "
+"<a href=\"%s\" target=\"_blank\">codex page</a>)."
+msgstr ""
+
+#: vc-modules/text-with-video.php:79
+msgid ""
+"Rimply dummy text of the printing and typesetting istrykorem Ipsum hasbeen "
+"daand scrambled.make a type specimen book. Lorem ipsum dolor sit ameen uer "
+"adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dol "
+"agna aliquam erat volutpat. Ut wisi enim ad minim veniamnostrud exerci "
+"ullamcorper suscipit ut aliquip exea.<br>scrambled.make a type specimen "
+"book. Lorem ipsum dolor sit ameen uer adipiscing elit, sed diam nonummy "
+"nibh euismod"
+msgstr ""
+
+#: vc-modules/title.php:13
+msgid "FinancePro: Section Title"
+msgstr ""
+
+#: vc-modules/title.php:57
+msgid "Subtitle color"
+msgstr ""
+
+#: vc-modules/title.php:77
+msgid "Section Width"
+msgstr ""
+
+#: vc-modules/title.php:80
+msgid "100%"
+msgstr ""
+
+#: vc-modules/title.php:81
+msgid "90%"
+msgstr ""
+
+#: vc-modules/title.php:82
+msgid "80%"
+msgstr ""
+
+#: vc-modules/title.php:83
+msgid "70%"
+msgstr ""
+
+#: vc-modules/title.php:84
+msgid "65%"
+msgstr ""
+
+#: vc-modules/title.php:85
+msgid "60%"
+msgstr ""
+
+#: vc-modules/title.php:86
+msgid "50%"
+msgstr ""
+
+#: vc-modules/title.php:87
+msgid "40%"
+msgstr ""
+
+#: vc-modules/title.php:88
+msgid "30%"
+msgstr ""
+
+#: vc-modules/title.php:89
+msgid "20%"
+msgstr ""
+
+#: vc-modules/title.php:90
+msgid "10%"
+msgstr ""
+
+#: vc-modules/views/case-studies-box.php:93
+#: vc-modules/views/case-studies-grid1.php:78
+#: vc-modules/views/portfolio-grid3.php:80
+msgid "No Case Studies Found"
+msgstr ""
+
+#: vc-modules/views/portfolio-grid1.php:77
+#: vc-modules/views/portfolio-grid2.php:95
+msgid "No Portfolio Found"
+msgstr ""
+
+#: vc-modules/views/post-style-1.php:59
+msgid "Comments"
+msgstr ""
+
+#: vc-modules/views/post-style-1.php:66 vc-modules/views/post-style-2.php:63
+msgid "No Post Found"
+msgstr ""
+
+#: vc-modules/views/service-grid1.php:67 vc-modules/views/service-grid2.php:86
+#: vc-modules/views/service-grid3.php:71
+#: vc-modules/views/service-slider-1.php:79
+#: vc-modules/views/service-slider-2.php:72
+#: vc-modules/views/service-slider-3.php:55
+msgid "No Service Found"
+msgstr ""
+
+#: vc-modules/views/tab.php:64
+msgid "Please insert some data"
+msgstr ""
+
+#: vc-modules/views/team-1.php:81 vc-modules/views/team-2.php:72
+#: vc-modules/views/team-3.php:72 vc-modules/views/team-4.php:58
+#: vc-modules/views/team-grid1.php:78 vc-modules/views/team-grid2.php:97
+#: vc-modules/views/team-grid3.php:93
+msgid "No Team Found"
+msgstr ""
+
+#: vc-modules/views/testimonial-style-1.php:72
+#: vc-modules/views/testimonial-style-2.php:56
+msgid "No Testimonial Found"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "FinancePro Core"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://radiustheme.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "FinancePro Core Plugin for Finance Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "RadiusTheme"
+msgstr ""

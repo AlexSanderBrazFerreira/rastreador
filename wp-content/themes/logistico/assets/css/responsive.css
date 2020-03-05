@@ -1,0 +1,30 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 1199px)  { 
+
+}
+@media (max-width: 991px)  { 
+	.logistic-footer-column_four .logistico-footer-widget {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 50px;
+    }
+    p.lgtico-copywright {
+        display: inline-block;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    header#masthead {
+        padding: 20px 0;
+    }
+    .lgtico-input-item {
+        -ms-flex: 0 0 50%;
+        flex: 0 0 100%;
+    }
+}
+
+@media (max-width: 767px)  { 
+	.bootstrap-wrapper {
+        overflow: hidden;
+    }
+}
